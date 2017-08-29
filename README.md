@@ -77,3 +77,6 @@ This project is inspired or powered by these people or projects so I want to tha
 - [VuexFire](https://github.com/posva/vuexfire) for work integrating Vuex & Firebase
 - [vee-validate](https://github.com/baianat/vee-validate) for making form validation in Vue so easy
 - [Firebase](https://firebase.google.com/)
+
+### TODO:
+- Start with Documenting Notification Dispatch
